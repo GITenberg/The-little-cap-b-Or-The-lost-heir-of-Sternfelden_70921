@@ -1,0 +1,23 @@
+_repo: The-little-cap-b-Or-The-lost-heir-of-Sternfelden_70921
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dundas, Louisa Maria
+    gutenberg_agent_id: '55997'
+    url: http://www.gutenberg.org/2009/agents/55997
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70921'
+language: en
+pgterms:marc905: 20230529232506dundas
+pgterms:marc906: '1871'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bGall and Inglis, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The little cap : $b Or, The lost heir of Sternfelden'
+url: http://www.gutenberg.org/ebooks/70921
