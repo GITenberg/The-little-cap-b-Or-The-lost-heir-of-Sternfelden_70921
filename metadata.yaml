@@ -1,11 +1,16 @@
 _repo: The-little-cap-b-Or-The-lost-heir-of-Sternfelden_70921
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dundas, Louisa Maria
     gutenberg_agent_id: '55997'
     url: http://www.gutenberg.org/2009/agents/55997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70921#The-little-cap-b-Or-The-lost-heir-of-Sternfelden
 gutenberg_issued: '2023-06-06'
 identifiers:
   gutenberg: '70921'
